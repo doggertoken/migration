@@ -1,0 +1,40 @@
+@font-face {
+  font-family: MonsterRat;
+  src: url('http://localhost:3000/font/MONTSERRAT-REGULAR.OTF');
+}
+
+@font-face {
+  font-family: MonsterRat_Bold;
+  src: url('http://localhost:3000/font/MONTSERRAT-BOLD.OTF');
+}
+
+body *{
+  color:white;
+}
+
+html,
+body {
+  margin: 0;
+  height: 100%;
+}
+
+#root {
+  height:100%;
+}
+
+body{
+  background-image: linear-gradient(rgb(18, 16, 17) 0%,rgb(18, 16, 17) 70%, rgb(6, 6, 6) 100%);
+}
+
+.container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  height:100vh;
+}
+
+.content {
+  flex: 3;
+  display: flex;
+  padding: 8px;
+}

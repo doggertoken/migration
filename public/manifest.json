@@ -1,0 +1,25 @@
+{
+  "short_name": "Dogger",
+  "name": "Dogger Bridge dApp",
+  "icons": [
+    {
+      "src": "https://Dogger.cash/wp-content/uploads/elementor/thumbs/Dogger-logo-transparent-pcdrqjcm8k6yt1tlqn025bvcb7555asou814ncp6w0.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "https://Dogger.cash/wp-content/uploads/elementor/thumbs/Dogger-logo-transparent-pcdrqjcm8k6yt1tlqn025bvcb7555asou814ncp6w0.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://Dogger.cash/wp-content/uploads/elementor/thumbs/Dogger-logo-transparent-pcdrqjcm8k6yt1tlqn025bvcb7555asou814ncp6w0.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
